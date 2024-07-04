@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Himanshu Lamba
 - 👀 I’m proficient in CSS and Python programming.
-- 🌱 I’m currently strengtheming my programming skills and improving everyday.
+- 🌱 I’m currently strengtheming my programming skills & electrical skills and improving everyday.
 - 💞️ I’m looking to collaborate on all kind of front-end webdevelopment.
 - 📫 How to reach me : himanshulamba23943@gmail.com
 
